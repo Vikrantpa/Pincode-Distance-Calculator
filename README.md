@@ -1,2 +1,3 @@
 # Pincode-Distance-Calculator
-📌 Pincode Distance Calculator (MongoDB + Streamlit)
+
+This Streamlit app calculates the geographical distance between two Indian pincodes using their centroid coordinates stored in MongoDB. It uses the Haversine formula to compute real-world distances and displays detailed metadata like district, state, and area for each pincode. The backend is built with Python, PyMongo, and Shapely, while the frontend is powered by Streamlit for an interactive experience. The project demonstrates geospatial data handling, distance computation, and dynamic UI integration. It’s a practical tool for exploring location-based insights across India.
